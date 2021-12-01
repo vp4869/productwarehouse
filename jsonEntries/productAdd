@@ -1,0 +1,12 @@
+{"id": 101, "productName": "Boots", "category": "Footwear", "retailPrice": 78.0, "discountedPrice": 62.54, "availability": true }
+{"id": 102, "productName": "Tailcoat", "category": "Outerwear", "retailPrice": 239.99, "discountedPrice": 189.99, "availability": true }
+{"id": 103, "productName": "Sunglasses", "category": "Accessories", "retailPrice": 29.99, "discountedPrice": 15.50, "availability": true }
+{"id": 104, "productName": "Jeans", "category": "Bottoms", "retailPrice": 119.99, "discountedPrice": 112.20, "availability": true }
+{"id": 105, "productName": "Cargo", "category": "Bottoms", "retailPrice": 89.99, "discountedPrice": 75.50, "availability": false }
+{"id": 106, "productName": "Belt", "category": "Accessories", "retailPrice": 12.99, "discountedPrice": 11.50, "availability": true }
+{"id": 107, "productName": "Hat", "category": "Accessories", "retailPrice": 19.99, "discountedPrice": 15.20, "availability": false }
+{"id": 108, "productName": "Cap", "category": "Accessories", "retailPrice": 9.99, "discountedPrice": 8.19, "availability": false }
+{"id": 109, "productName": "Sneakers", "category": "Footwear", "retailPrice": 59.99, "discountedPrice": 45.99, "availability": false }
+{"id": 110, "productName": "VNeck", "category": "Tops", "retailPrice": 36.99, "discountedPrice": 27.20, "availability": true }
+{"id": 111, "productName": "TShirt", "category": "Tops", "retailPrice": 17.99, "discountedPrice": 13.50, "availability": false }
+{"id": 112, "productName": "Sandals", "category": "Footwear", "retailPrice": 15.99, "discountedPrice": 11.11, "availability": false }
